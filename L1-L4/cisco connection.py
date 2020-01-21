@@ -12,7 +12,7 @@ old_stdout = sys.stdout
 sys.stdout = fd
 platform = 'cisco_ios'
 username = 'admin-j0000049'
-password = 'ti$$$1n414DULE'
+password = 'xxxxx'
 
 ip_add_file = open(r'C:\Users\J0000049\DC Switchevi.txt','r')
 
